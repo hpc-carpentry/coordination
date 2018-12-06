@@ -17,6 +17,8 @@ repositories), open an issue on the relevant lesson repository.
 
 ## Open Issues
 
+* Starting a monthly meeting for people to chat, ask questions, discuss what's happening with HPC Carpentry; 
+notes will probably be in this repository.  
 * Incorporating the "templating" in @psteinb's fork to make it easy to switch schedulers (start w/ 2-3 for default)
 * Adding new lessons (what process / how are they included)
 * Confirm/finalize process for adding lesson maintainers
@@ -24,3 +26,7 @@ repositories), open an issue on the relevant lesson repository.
 ## Resources
 
 * [HPC Carpentry website](https://hpc-carpentry.github.io/)
+* [Lessons](https://github.com/hpc-carpentry)
+* [Materials from 2017 Supercomputing BOF](https://hpc-uk.github.io/sc17-hpccarpentry-bof/)
+* [Materials from CarpentryCon 2018 breakout](https://github.com/carpentries/carpentrycon/blob/master/Sessions/2018-05-31/05-Breakout-8-HPC-Carpentry/Abstract.md)
+* [Materials from CarpentryCon 2018 workshop](https://github.com/carpentries/carpentrycon/blob/master/Sessions/2018-06-01/05-Workshop-5-HPC-Carpentry/Abstract.md)
