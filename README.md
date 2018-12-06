@@ -15,8 +15,9 @@ Anyone is welcome to submit pull requests modifying the current lessons.
 If you're interested in becoming a lesson maintainer (reviewing issues and pull requests on the lesson material 
 repositories), open an issue on the relevant lesson repository.  
 
-## To be discussed future
+## Open Issues
 
+* Incorporating the "templating" in @psteinb's fork to make it easy to switch schedulers (start w/ 2-3 for default)
 * Adding new lessons (what process / how are they included)
 * Confirm/finalize process for adding lesson maintainers
 
