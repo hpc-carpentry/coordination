@@ -15,6 +15,10 @@ Anyone is welcome to submit pull requests modifying the current lessons.
 If you're interested in becoming a lesson maintainer (reviewing issues and pull requests on the lesson material 
 repositories), open an issue on the relevant lesson repository.  
 
+HPC Carpentry isn't really a formal "organization" as such.  We're trying to work out a process where 
+decisions are made about what happens next with the lessons.  Staying on the [discussion list](https://carpentries.topicbox.com/groups/discuss-hpc)
+is the best way to stay connected to that process.  
+
 ## Open Issues
 
 * Starting a monthly meeting for people to chat, ask questions, discuss what's happening with HPC Carpentry; 
