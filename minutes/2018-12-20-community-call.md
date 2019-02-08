@@ -34,7 +34,6 @@ Notes: https://pad.carpentries.org/2018-12-20-hpc-carpentry
 * questions from attendees (either live or from comments below)
 * pathways for people to get involved
 * planning for future calls
-
    
 ### Notes
 
@@ -42,7 +41,9 @@ Notes: https://pad.carpentries.org/2018-12-20-hpc-carpentry
 
 * Martin: Univ of Leeds, 25 people attending, in general many of the same comments as those listed on
 materials may need to be done with pick as you need when running the workshop
-* Andy: see Github issue
+* Andy: https://github.com/hpc-carpentry/coordination/issues/1#issuecomment-448995944
+
+**Discussion**
 
 * Martin:
     * Broad spread of what people what.  Materials might be part of a pick and mix collection.  Selection and tailoring.
