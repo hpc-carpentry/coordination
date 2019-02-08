@@ -7,24 +7,43 @@ December 20, 2018; 5pm GMT / 12pm EST / 9am PST
 
 ## Abbreviated Notes From Etherpad
 
-### Attendees
+### Attendees, Affiliations, and Involvement
 
-* Richard Barnes / UC Berkeley / adapt code to HPC (or GPUs)
-* Martin Callaghan / U. Leeds / lots of training + teaching, have done the HPC Carpentry
-* Dirk Collbry / Michigan State / teaching a class in the spring
-* Bob Freeman / Harvard Business / HPC stuff on + off for past four years, doing more w/ hands-on
-* Elsa Gonsiorowski / LLNL / work in computing center, training, 
-* Tim Haines / UW Madison / DoE's exascale computing program
-* Trevor Keller / NIST (MD US) / trained instructor, have taught intro to GPU
-* Marina Kraeva / Iowa State University
+* Christina Koch / U. Wisconsin, Madison
+    * Called the meeting
+    * Maintainer: HPC Intro, Shell, Chapel, Python
+* Richard Barnes / U. California, Berkeley 
+    * adapt code to HPC (or GPUs)
+* Martin Callaghan / U. Leeds 
+    * lots of training + teaching, have done the HPC Carpentry
+* Dirk Collbry / Michigan State U. 
+    * teaching a class in Spring '19
+* Bob Freeman / Harvard Business School
+    * HPC stuff on + off for past four years, doing more w/ hands-on
+* Elsa Gonsiorowski / LLNL
+    * work in computing center, training
+* Tim Haines / U. Wisconsin, Madison 
+    * DoE's exascale computing program
+* Trevor Keller / NIST
+    * have taught intro to GPU
+    * Maintainer: HPC Intro
+* Marina Kraeva / Iowa State U.
 * Rintu Kutum / CSIR-IGIB, New Delhi, India
-* Pariksheet Nanda / University of Connecticut / got into Carpentries + HPC at same time, increase
-  training for users
-* Alex Razoumov / Westgrid (Compute Canada) / hpc-chapel 10 times a year
-* Andrew Reid / NIST / administrator, transition to shared resource
-* Jean Shuler / LLNL / has summer intern programming 
-* Dima Shyslov / U. of Arizona / intro tutorials for classes
-* Xiaohu Guo / CFD, training
+* Pariksheet Nanda / U. Connecticut
+    * got into Carpentries + HPC at same time, increase training for users
+* Alex Razoumov / Westgrid (Compute Canada) 
+    * hpc-chapel 10 times a year
+    * Maintainer: HPC Chapel
+* Andrew Reid / NIST 
+    * administrator, transition to shared resource
+* Jean Shuler / LLNL 
+    * has summer intern programming 
+* Dima Shyslov / U. of Arizona 
+    * intro tutorials for classes
+* Peter Steinbach / Max Planck Institute & Scionics
+    * Maintainer: HPC Intro, Shell
+* Xiaohu Guo 
+    * CFD, training
 
 ### Agenda
 
@@ -61,8 +80,8 @@ December 20, 2018; 5pm GMT / 12pm EST / 9am PST
 * Christina:
     * Also notes for people teaching the lesson.
 * Tim:
-    * Has anyone tried GitHub content management system before:
-    * http://paislee.io/how-to-use-github-as-a-minimal-cms/
+    * Has anyone tried GitHub content management system before?
+      http://paislee.io/how-to-use-github-as-a-minimal-cms/
 * Christina:
     * We currently add in our own layer of templating.
 * Peter:
@@ -72,8 +91,8 @@ December 20, 2018; 5pm GMT / 12pm EST / 9am PST
 * Christina:
     * Where would you go to run a workshop?  How to customize?
     * Should we have a blog?  Should it be stored in a repository somewhere?
-    * hpc-carpentry.github.io 
-    * github.com/hpc-carpentry/coordination 
+        * https://hpc-carpentry.github.io
+        * https://github.com/hpc-carpentry/coordination
 * Elsa:
     * Have a master list of some repositories. A master HPC lesson that each organization can fork
       and have their own information and branding for their clusters. Link back with here's a list
@@ -88,8 +107,8 @@ December 20, 2018; 5pm GMT / 12pm EST / 9am PST
 * Christina:
     * Put in the notes when you google what shows up.
 * Pariksheet:
-    * I get the correct first link https://hpc-carpentry.github.io/ when searching for "HPC
-      carpentry" with DuckDuckgo
+    * I get the correct first link https://hpc-carpentry.github.io when searching for "HPC
+      carpentry" with DuckDuckGo
 * Christina:
     * (Responding to Richard) Customization could occur at a lot of levels.
     * As much as possible should be site specific.
@@ -103,12 +122,12 @@ December 20, 2018; 5pm GMT / 12pm EST / 9am PST
 
 * Peter: HPC-Intro is in a transition state right now. A story has been started, but stops abruptly
   after Lesson 2/3.
-   * In need of review and feedback! Personal investment in moving it forward, hopes to get more
-     investment to get it stable & polished over the next few months (Q1-2019).
-   * We need a reasonable, stable version of HPC-Into for people to fly around on the cluster.
-     https://hpc-carpentry.github.io/hpc-intro/
+    * In need of review and feedback! Personal investment in moving it forward, hopes to get more
+      investment to get it stable & polished over the next few months (Q1-2019).
+    * We need a reasonable, stable version of HPC-Intro for people to fly around on the cluster.
+      https://hpc-carpentry.github.io/hpc-intro
 * Christina:
-   * HPC-Intro and shell are the most active at being reshaped and tweaked,
+    * HPC-Intro and shell are the most active at being reshaped and tweaked.
 * Bob:
     * Thanks Peter for adding that! I spoke with our research computing group about using the
       materials. We plan to use in February or May of this year.
@@ -173,4 +192,4 @@ December 20, 2018; 5pm GMT / 12pm EST / 9am PST
     * If there's anything you want to share, use the mailing list, open issues!
 * Christina:
     * Sometimes replies are slow but everyone is doing the best they can!  Keep inching forward.
-    Will issue a call for January.
+      Will issue a call for January.
