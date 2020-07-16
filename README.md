@@ -35,5 +35,5 @@ notes will probably be in this repository.
 * [HPC Carpentry website](https://hpc-carpentry.github.io/)
 * [Lessons](https://github.com/hpc-carpentry)
 * [Materials from 2017 Supercomputing BOF](https://hpc-uk.github.io/sc17-hpccarpentry-bof/)
-* [Materials from CarpentryCon 2018 breakout](https://github.com/carpentries/carpentrycon/blob/master/Sessions/2018-05-31/05-Breakout-8-HPC-Carpentry/Abstract.md)
-* [Materials from CarpentryCon 2018 workshop](https://github.com/carpentries/carpentrycon/blob/master/Sessions/2018-06-01/05-Workshop-5-HPC-Carpentry/Abstract.md)
+* [Materials from CarpentryCon 2018 breakout](https://github.com/carpentries/carpentrycon/blob/master/CarpentryCon-2018/Sessions/2018-05-31/05-Breakout-8-HPC-Carpentry/)
+* [Materials from CarpentryCon 2018 workshop](https://github.com/carpentries/carpentrycon/blob/master/CarpentryCon-2018/Sessions/2018-06-01/05-Workshop-5-HPC-Carpentry/)
