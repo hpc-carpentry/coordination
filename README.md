@@ -1,34 +1,40 @@
 # Coordinating HPC Carpentry
 
-This repository serves as a centralizing location for documents / notes / information re: HPC Carpentry 
-[HPC Carpentry organization](https://github.com/hpc-carpentry) that isn't contained on the general website. 
+This repository serves as a centralizing location for documents, notes, and information regarding
+the [HPC Carpentry organization](https://github.com/hpc-carpentry) that isn't contained on the
+[general website](https://hpc-carpentry.github.io/).
 
 ## Current status of HPC Carpentry
 
-"Beta" lessons are available in the [HPC Carpentry Github organization](https://github.com/hpc-carpentry).
+"Alpha" lessons are available in the [HPC Carpentry organization](https://github.com/hpc-carpentry).
 
-Anyone is welcome to use and modify these materials.  If you want to run a workshop called "HPC Carpentry" 
-please see the suggested guidelines on the [HPC Carpentry about page](https://hpc-carpentry.github.io/about). 
+Anyone is welcome to use and modify these materials. If you want to run a workshop called "HPC
+Carpentry" please see the suggested guidelines on the [HPC Carpentry about
+page](https://hpc-carpentry.github.io/about).
 
 Anyone is welcome to submit pull requests modifying the current lessons.
 
-If you're interested in becoming a lesson maintainer (reviewing issues and pull requests on the lesson material 
-repositories), open an issue on the relevant lesson repository.  
+If you're interested in becoming a lesson maintainer (reviewing issues and pull requests on the
+lesson material repositories), open an issue on the relevant lesson repository, or reach out to any
+of the [current members](https://github.com/orgs/hpc-carpentry/people). "Joining" our organization
+is an informal process at this stage, with as much or as little commitment as you choose to
+provide. You are required to understand and comply with The Carpentries' [Code of Conduct](
+https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html#code-of-conduct-summary-view).
 
-Because we're a very loosely defined "organization" we don't have clear pathways for "joining" right now -- the main opportunities to get involved are (as described above) using the current lessons to teach, or contributing to the current lessons, or, as described below, 
-staying connected to discussions about HPC Carpentry.  
+The main opportunities to get involved are (as described above) using the current lessons to teach,
+or contributing to the current lessons, and staying connected to discussions about HPC Carpentry
+through our [discussion list](https://carpentries.topicbox.com/groups/discuss-hpc).
 
-We're trying to work out a process where decisions are made about what happens next with the lessons or the community in general.  Staying on the [discussion list](https://carpentries.topicbox.com/groups/discuss-hpc)
-is the best way to stay connected to that process.  We are also having a [community call in December](https://github.com/hpc-carpentry/coordination/issues/1).
+After several years of collecting and curating HPC lesson materials, we are making a big push for
+formal induction into The Carpentries, with primary emphasis on [HPC Intro](
+https://github.com/hpc-carpentry/hpc-intro). To that end, we have created a [Task Force](
+https://github.com/hpc-carpentry/coordination/issues/12) that will meet regularly for discussions
+and co-working hours. If you are interested in helping us to achieve this ambitious goal, please
+join the [maintainers' list](https://carpentries.topicbox.com/groups/maintainers-hpc).
 
-## Open Issues
+Please check the [Blog](https://hpc-carpentry.github.io/blog/) on the HPC Carpentry website for
+related news and information.
 
-* Starting a monthly meeting for people to chat, ask questions, discuss what's happening with HPC Carpentry; 
-notes will probably be in this repository. 
-* Creating/clarifying pathways for being involved.
-* Incorporating the "templating" in @psteinb's fork to make it easy to switch schedulers (start w/ 2-3 for default)
-* Adding new lessons (what process / how are they included)
-* Confirm/finalize process for adding lesson maintainers
 
 ## Resources
 
