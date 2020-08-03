@@ -19,7 +19,7 @@ lesson material repositories), open an issue on the relevant lesson repository, 
 of the [current members](https://github.com/orgs/hpc-carpentry/people). "Joining" our organization
 is an informal process at this stage, with as much or as little commitment as you choose to
 provide. You are required to understand and comply with The Carpentries' [Code of Conduct](
-https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html#code-of-conduct-summary-view)
+https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html#code-of-conduct-summary-view).
 
 The main opportunities to get involved are (as described above) using the current lessons to teach,
 or contributing to the current lessons, and staying connected to discussions about HPC Carpentry
