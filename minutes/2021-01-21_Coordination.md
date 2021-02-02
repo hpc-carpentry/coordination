@@ -10,7 +10,7 @@ Proposed for Jan. 21, 2021, time TBA -- prior meetings have had success with ses
 
 ## Venue
 
-Both meetings used [Google Meet](https://meet.google.com/gez-aeui-jdx), updated Jan. 21 with a new URL. 
+Both meetings used ~redacted~, updated Jan. 21 with a new URL. 
 
 ## Agenda
 

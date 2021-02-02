@@ -25,26 +25,7 @@ Code of Conduct:
 https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html
 
 Host/Call details
-Join Zoom Meeting: https://us02web.zoom.us/j/83368083438
-
-Meeting ID: 833 6808 3438
-One tap mobile
-+496950502596,,83368083438# Germany
-+496971049922,,83368083438# Germany
-
-Dial by your location
-        +49 695 050 2596 Germany
-        +49 69 7104 9922 Germany
-        +49 30 5679 5800 Germany
-        +49 69 3807 9883 Germany
-        +1 253 215 8782 US (Tacoma)
-        +1 301 715 8592 US (Germantown)
-        +1 312 626 6799 US (Chicago)
-        +1 346 248 7799 US (Houston)
-        +1 646 558 8656 US (New York)
-        +1 669 900 9128 US (San Jose)
-Meeting ID: 833 6808 3438
-Find your local number: https://us02web.zoom.us/u/kRYXeBeXW
+Join Zoom Meeting: ~redacted~
 
 Roll call + Check in:
 name / email / pronoun / social media handle 

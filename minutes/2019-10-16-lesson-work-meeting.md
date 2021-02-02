@@ -17,7 +17,7 @@ Topics Discussed:
   
 * Establish regular meeting time
    - Using attendee feedback and results of WhenIsGood poll, future meetings will be held biweekly at 10 am CDT on Wednesdays
-   - Next Meeting to occur on [October 30th at 10 am CDT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=HPC+Carpentry+Lesson+Work+Meeting&iso=20191030T10&p1=132&ah=1) - https://unl.zoom.us/j/2088699948
+   - Next Meeting to occur on [October 30th at 10 am CDT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=HPC+Carpentry+Lesson+Work+Meeting&iso=20191030T10&p1=132&ah=1) - ~redacted~
 
 * Identify workflow for improvements/suggestions
    - Following current model, general improvement suggestions or bug identification to be submitted via Issues
