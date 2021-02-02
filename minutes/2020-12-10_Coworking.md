@@ -60,7 +60,7 @@ Notes from the previous Coordination Meeting are [here][last-coord].
   and consolidating the open ones.
   - Update to shell lesson proposed
   - Cleaned out or transferred issues in https://github.com/hpc-carpentry/hpc-carpentry.github.io
-    - There was some useful evaluation forms in there!  
+    - There was some useful evaluation forms in there!
  
  * Discuss linux for HPC
 

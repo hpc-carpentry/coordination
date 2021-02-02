@@ -41,8 +41,8 @@ The current timeslot for Europe+ is 7:00 AM UTC, though this is being [actively 
 
 * Hosts: Annajiat Rasel & Benson Muite
 * Check your local time [here](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20201015T1300&msg=HPC+Carpentries+Coworking+Hour+Asia).
-* https://meet.jit.si/LengthyPredecessorsSkipAfterwards
-* 
+* ~redacted~
+
 ### Participants
 
 * *name*, *pronouns*, *interests*

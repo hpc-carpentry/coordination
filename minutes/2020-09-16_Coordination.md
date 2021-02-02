@@ -4,7 +4,7 @@ We plan to meet on September 16, 2020 at 9:00 PM UTC
 (11:00 PM Central Europe / 5:00 PM Eastern US / 2:00 PM Pacific US)
 
 - [Check your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20200916T2100&msg=HPC%20Carpentry%20-%20Task%20Force%20Meeting:%20September%202020)
-- [Join the Zoom meeting](https://us02web.zoom.us/j/84058724130)
+- ~redacted~
 - [Edit the shared notes (CodiMD)]( https://codimd.carpentries.org/ct7yfc_LSseoC8mEmbVEiQ?both)
 
 ## Stay connected / Check-in (optional)
@@ -24,6 +24,7 @@ We plan to meet on September 16, 2020 at 9:00 PM UTC
 
 Apologies:
 - Evgenij Belikov, EPCC | he/him | e.belikov@epcc.ed.ac.uk | UTC + 1
+
 ## Agenda
 
 * Carpentries Liaison Toby Hodges

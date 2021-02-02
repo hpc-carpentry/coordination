@@ -23,16 +23,7 @@ are invited to join whichever is most convenient 😉
 
 ### Video Venue
 
-Both meetings will use [Google Meet](https://meet.google.com/gez-aeui-jdx), updated 21 January with a new URL. 
-
-***[Click here to join!](https://meet.google.com/gez-aeui-jdx)***
-
-:::spoiler You can also call in by phone.
-- Dial +1 234-405-0205
-- PIN: 662 051 554#
-- To view more phone numbers, click this link:
-  <https://tel.meet/gez-aeui-jdx?hs=5>.
-:::
+Both meetings will use ~redacted~, updated 21 January with a new URL. 
 
 
 ### Callbacks to Previous Meetings

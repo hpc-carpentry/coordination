@@ -12,33 +12,13 @@ In addition, contributors are invited to make comments and raise additional poin
 
 Topic: HPCCarpentry Task Force Coordination Meeting
 Time: Oct 13, 2020 09:00 AM Amsterdam, Berlin, Rome, Stockholm, Vienna
+
 Join Zoom Meeting
-https://us02web.zoom.us/j/82220396951?pwd=bUVJcFhHNlViaGROYTl0cmhhczIvUT09
-Meeting ID: 822 2039 6951
-Passcode: 300475
-One tap mobile
-+496938079883,,82220396951#,,,,,,0#,,300475# Germany
-+496950502596,,82220396951#,,,,,,0#,,300475# Germany
-Dial by your location
-        +49 69 3807 9883 Germany
-        +49 695 050 2596 Germany
-        +49 69 7104 9922 Germany
-        +49 30 5679 5800 Germany
-        +1 301 715 8592 US (Germantown)
-        +1 312 626 6799 US (Chicago)
-        +1 346 248 7799 US (Houston)
-        +1 646 558 8656 US (New York)
-        +1 669 900 9128 US (San Jose)
-        +1 253 215 8782 US (Tacoma)
-Meeting ID: 822 2039 6951
-Passcode: 300475
-Find your local number: https://us02web.zoom.us/u/kesbBPIb5U
+~redacted~
 
 ### For 2100 UTC, Google Meet:
 
-To join the video meeting, click this link: https://meet.google.com/ist-amyv-vua
-Otherwise, to join by phone, dial +1 304-790-6281 and enter this PIN: 159 861 909#
-To view more phone numbers, click this link: https://tel.meet/ist-amyv-vua?hs=5
+To join the video meeting, click this link: ~redacted~
 
 ## Agenda
 
