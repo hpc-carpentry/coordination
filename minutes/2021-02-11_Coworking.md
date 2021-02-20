@@ -68,28 +68,6 @@ are invited to join whichever is most convenient 😉
 
 Looking for old notes? Check our [minutes](https://github.com/hpc-carpentry/coordination/tree/main/minutes)!
 
-#### Disclaimers
-
-General questions or feedback? Contact [team@carpentries.org](mailto:team@carpentries.org).
-
-Inline HTML with `fa` tags refer to [Font Awesome](https://fontawesome.com/icons?d=gallery).
-
-:::info
-This document is synchronized as you type, so that everyone viewing this page sees the same text. This allows you to collaborate seamlessly on documents.
-
-**Use of this service is restricted to members of The Carpentries community**; this is not for general purpose use (for that, try etherpad.wikimedia.org).
-
-Users are expected to follow our **[Code of Conduct][conduct]**.
-
-All content is publicly available under the [Creative Commons Attribution License][license].
-:::
-
-:::danger
-**This server is not backed up!** 
-The Carpentries is not responsible for any data loss. 
-If you want to save the content of this document, please download it (Menu > Download).
-:::
-
 <!--References-->
 
 [conduct]: https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html
