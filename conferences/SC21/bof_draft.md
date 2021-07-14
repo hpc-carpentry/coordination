@@ -7,7 +7,7 @@
  - Trevor Keller
  - Others?
 
-It's possible ot include a brief bio for these.
+It's possible to include a brief bio for these.
 
 ## Topic Area
 
@@ -15,7 +15,7 @@ It's possible ot include a brief bio for these.
 
 ## Abstract:
 
-[HPC Carpentry][1] is a community and a set of lessons for introducing new users to cluster-based high-performance computing resources.  As these resources become more common, the need for educational resources to bring users from a broad variety of technical backgrounds up to speed becomes more urgent.  Based on the pedagigically sound methods of the larger [Carpentries][2] method, lessons in active development include an [introduction][3] to the use of a queuing system, an introduction to [parallel programming in Python][4], and a lesson focusing on the [Chapel parallel langauge][5].  The introductory lesson is part of the Carpentries incubator program, and is on track to be incorporated in to the Carpentries as a regular lesson in the near future.
+[HPC Carpentry][1] is a community and a set of lessons for introducing new users to cluster-based high-performance computing resources.  As these resources become more common, the need for educational resources to bring users from a broad variety of technical backgrounds up to speed becomes more urgent.  Based on the pedagogically sound methods of the larger [Carpentries][2] method, lessons in active development include an [introduction][3] to the use of a queuing system, an introduction to [parallel programming in Python][4], and a lesson focusing on the [Chapel parallel language][5].  The introductory lesson is part of the Carpentries incubator program, and is on track to be incorporated in to the Carpentries as a regular lesson in the near future.
 
   
 ##  Long description:
@@ -28,7 +28,7 @@ The [HPC Carpentry][1] community, a volunteer group of high-performance computin
 
 It is almost a cliche at this point that greater and greater computational capabilities are becoming increasingly affordable.  An under-appreciated consequence of this is that the range of backgrounds of new users of these resources is increasingly broad, and may not include knowledge of computer system configurations and file system layouts.  There is an evident on-going need to address the gap between the needs of these users and the capabilities and opportunities presented by the available HPC resources.
 
-The [HPC Carpentry][1] lessons address this gap, building on the pedagogically sound instructional methods of the larger [Carpentries][2] community to develop several lessons.  The best-developed of these, the [HPC Intro][3] lesson, was recently submitted to the [Carpentries Incubator][7] program, and is on track to become an official [Carpentries][2] lesson.  Other important lessons in development include a [parallel python][4] lesson, and a lesson focusing on the [chapel][5] langauge.
+The [HPC Carpentry][1] lessons address this gap, building on the pedagogically sound instructional methods of the larger [Carpentries][2] community to develop several lessons.  The best-developed of these, the [HPC Intro][3] lesson, was recently submitted to the [Carpentries Incubator][7] program, and is on track to become an official [Carpentries][2] lesson.  Other important lessons in development include a [parallel python][4] lesson, and a lesson focusing on the [chapel][5] language.
 
 ### Goals for the BoF
 
@@ -46,13 +46,13 @@ Approximately 2/3 to 3/4 of the session will be interactive.
 
 Presentations by the session leaders, either with slides or walking through a lesson.
 
-## Commerical?
+## Commercial?
 
 No.
 
 ## Format
 
-The BoF will open with a presentation of the current state of the lessons, including "pain points" identified by the develpoment team, after which an open discussion will be held to solicit feedback on theese points, and the questions above, from the attendees.
+The BoF will open with a presentation of the current state of the lessons, including "pain points" identified by the development team, after which an open discussion will be held to solicit feedback on thees points, and the questions above, from the attendees.
 
 ## Prior BoFs?
 
