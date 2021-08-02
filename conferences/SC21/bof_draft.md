@@ -15,7 +15,7 @@ It's possible to include a brief bio for these.
 ## Abstract:
 
 [HPC Carpentry][1] is a community and a set of lessons for introducing new
-users to cluster-based high-performance computing resources. As these resources
+users to high-performance computing resources. As these resources
 become more common, the need for educational resources to bring users from a
 broad variety of technical backgrounds up to speed becomes more urgent. Based
 on the pedagogically sound methods of the larger [Carpentries][2] method,
