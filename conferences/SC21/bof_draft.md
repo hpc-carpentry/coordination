@@ -34,7 +34,7 @@ The [HPC Carpentry][1] community, a volunteer group of high-performance
 computing practitioners lead by a [steering committee][6], has developed a
 number of introductory lessons for new users of HPC clusters.
 
-### What Problem We Solve
+### What problem we solve
 
 It is almost a cliche at this point that greater and greater computational
 capabilities are becoming increasingly affordable. An under-appreciated
