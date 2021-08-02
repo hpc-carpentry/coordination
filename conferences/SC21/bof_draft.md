@@ -22,7 +22,7 @@ on the pedagogically sound methods of the larger [Carpentries][2] method,
 lessons in active development include an [introduction][3] to the use of a
 queuing system, an introduction to [parallel programming in Python][4], and a
 lesson focusing on the [Chapel parallel language][5]. The introductory lesson
-is part of the Carpentries incubator program, and is on track to be
+is part of the [Carpentries Incubator][7] program, and is on track to be
 incorporated in to the Carpentries as a regular lesson in the near future.
 
   
