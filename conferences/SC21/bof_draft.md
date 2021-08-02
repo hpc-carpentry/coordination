@@ -86,7 +86,7 @@ No.
 
 The BoF will open with a presentation of the current state of the lessons,
 including "pain points" identified by the development team, after which an open
-discussion will be held to solicit feedback on thees points, and the questions
+discussion will be held to solicit feedback on these points, and the questions
 above, from the attendees.
 
 ## Prior BoFs?
