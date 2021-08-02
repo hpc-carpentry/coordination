@@ -4,6 +4,7 @@
 
  - Andrew Reid
  - Trevor Keller
+ - Alan O'Cais
  - Annajiat Alim Rasel
 
 It's possible to include a brief bio for these.
@@ -14,16 +15,16 @@ It's possible to include a brief bio for these.
 
 ## Abstract:
 
-[HPC Carpentry][1] is a community built around a set of community-contributed lessons for introducing new
-users to high-performance computing resources. As these resources
-become more common, the need for educational resources to bring users from a
-broad variety of technical backgrounds up to speed becomes more urgent. Based
-on the pedagogically well-founded methods of the larger [Carpentries][2] approach,
-lessons in active development include an [introduction][3] to the use of a
-queuing system, an introduction to [parallel programming in Python][4], and a
-lesson focusing on the [Chapel parallel language][5]. The introductory lesson
-is part of the [Carpentries Incubator][7] program, and is on track to be
-incorporated in to the Carpentries as a regular lesson in the near future.
+[HPC Carpentry][1] introduces new users to high-performance computing
+through a set of community-contributed lessons.  As diverse and powerful
+hardware becomes more widely deployed, users from a variety of technical
+backgrounds are faced with the challenge of adapting their problems
+to new environments; educational resources to bring users up to speed
+become more significant.  Based on the approach of [The Carpentries][2],
+HPC Carpentry lessons in development include an [introduction][3] to the
+use of a queuing system and an introduction to [parallel programming
+in Python][4].  The introductory lesson is part of the [Incubator][7], 
+where it benefits from the broader Carpentries community.
 
   
 ##  Long description:
@@ -31,26 +32,33 @@ incorporated in to the Carpentries as a regular lesson in the near future.
 ### Who we are
 
 The [HPC Carpentry][1] community, a volunteer group of high-performance
-computing practitioners lead by a [steering committee][6], has developed a
-number of introductory lessons for new users of HPC clusters.
+computing practitioners led by a [steering committee][6], has developed a
+number of introductory lessons for new users of HPC systems.
 
 ### What problem we solve
 
-It is almost a cliche at this point that greater and greater computational
+It is a cliche at this point that greater and greater computational
 capabilities are becoming increasingly affordable. An under-appreciated
-consequence of this is that the range of backgrounds of new users of these
-resources is increasingly broad, and may not include knowledge of computer
-system configurations and file system layouts. There is an evident on-going
-need to address the gap between the needs of these users and the capabilities
-and opportunities presented by the available HPC resources.
+consequence of this is that the range of backgrounds of new users of
+these resources is increasingly broad, and may not include knowledge of
+computer system configurations and file system layouts. This prevents
+users from making effective use of these new systems.  There is an evident
+on-going need to address the gap between the skills and expectations of
+users and the capabilities and opportunities presented by the available
+HPC resources.
 
-The [HPC Carpentry][1] lessons address this gap, building on the pedagogically
-sound instructional methods of the larger [Carpentries][2] community to develop
-several lessons. The best-developed of these, the [HPC Intro][3] lesson, was
-recently submitted to the [Carpentries Incubator][7] program, and is on track
-to become an official [Carpentries][2] lesson. Other important lessons in
-development include a [parallel python][4] lesson, and a lesson focusing on the
-[chapel][5] language.
+The [HPC Carpentry][1] lessons address this gap, building on the
+pedagogically sound instructional methods of the larger [Carpentries][2]
+community.  The best-developed lesson, [HPC Intro][3], was recently
+submitted to the [Carpentries Incubator][7], where it benefits from
+input from the broader Carpentries audience.  Another important lesson
+in development is a [parallel python][4] lesson.
+
+Many community members have important operational experience with a
+variety of HPC tools in a pedagogical context, including the design,
+procurement, deployment, and maintenance of on-premise hardware,
+container, and cloud systems.  This informs the lesson-development
+process at many levels.
 
 ### Goals for the BoF
 
@@ -59,19 +67,38 @@ ensure that we are aligned with current HPC best practices, and to help the HPC
 Carpentries development team prioritize efforts for successor lessons in light
 of the changing landscape of current HPC practice.
 
-MPI remains a very popular parallel framework, but the community of novice HPC
-users may be using codes for which the MPI details are hidden, or which use
-entirely different parallel frameworks. What is the right level of detail to
-address parallel frameworks in the introductory and advanced levels?
+We plan discuss the following strategic topics:
 
-There are many languages in which parallel and HPC codes are written, including
-legacy Fortran codes, low-level C and C++ codes, and newer HPC codes written in
-Python, Julia, or other parallel languages. How can we provide relevant
-information across these communities, while retaining pedagogical rigor?
+1. For people who have used the existing material, we are interested in 
+   positive and negative aspects of the experience.
 
+    - Was the HPC Carpentry material used stand-alone, or in combination with other material?
+    - What sequence was used? 
+
+2. Our existing lessons are not uniformly developed, and we have many good ideas for future lessons.
+
+    - Where should we focus efforts for future lessons?
+    - Languages? Julia? Chapel? Python?
+    - Frameworks? MPI? Dask? Containers?
+
+3. Should the lessons be teachable as stand-alone sessions, with resultant overlap of material, or should the lessons form a "deck" that workshop coordinators can mix and match?
+
+4. The current HPC Intro lesson has templates for customization to local resources. There is obvious tension between having flexible templates versus ease of set-up.
+
+    - How much templating is useful? At what point does it become burdensome?
+    - Should the material be adapted to permanent on-premise resources, or transient cloud resources?
+
+5. What duration of workshop is practical for users of this material?
+
+    - Half-day?
+    - Full day?
+    - Two days?
+
+  
 ## Interactivity
 
-Approximately 2/3 to 3/4 of the session will be interactive.
+Approximately 3/4 of the session will be interactive, polling the audience 
+on the questions above.
 
 ## Format of the non-audience-participation portion
 
@@ -96,8 +123,8 @@ participants got together at SC18.
 
 ## Time, expected attendance, keywords
 
- - We expect the session will last 2.5 to 3 hours.
- - We expect around 20 participants.
+ - We expect the session will last 1.5 hours.
+ - We expect around 50 participants.
  - Carpentries, carpentry, education, new users
 
 ## Website link:
@@ -109,7 +136,7 @@ participants got together at SC18.
 [1]: https://hpc-carpentry.org
 [2]: https://carpentries.org
 [3]: https://github.com/carpentries-incubator/hpc-intro
-[4]: https://github.com/hpc-carpentry/hpc-python
+[4]: https://github.com/hpc-carpentry/hpc-parallel-novice
 [5]: https://github.com/hpc-carpentry/hpc-chapel
 [6]: http://www.hpc-carpentry.org/contact/
 [7]: https://github.com/carpentries-incubator
