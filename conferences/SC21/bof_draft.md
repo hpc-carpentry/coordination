@@ -18,7 +18,7 @@ It's possible to include a brief bio for these.
 users to high-performance computing resources. As these resources
 become more common, the need for educational resources to bring users from a
 broad variety of technical backgrounds up to speed becomes more urgent. Based
-on the pedagogically sound methods of the larger [Carpentries][2] method,
+on the pedagogically well-founded methods of the larger [Carpentries][2] approach,
 lessons in active development include an [introduction][3] to the use of a
 queuing system, an introduction to [parallel programming in Python][4], and a
 lesson focusing on the [Chapel parallel language][5]. The introductory lesson
