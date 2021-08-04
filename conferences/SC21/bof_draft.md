@@ -80,7 +80,7 @@ We plan discuss the following strategic topics:
 
     - Existing lessons are fine, effort should go to improving them.
     - HPC applications of new languages -- Julia, Chapel, Python.
-    - HPC frameworks -- Containers, Dask, MPI, MPI, parallel CUDA.
+    - HPC frameworks -- Containers, Dask, MPI, parallel CUDA.
 
 3. Should the lessons be teachable as stand-alone sessions, with resultant overlap of material, or should the lessons form a "deck" that workshop coordinators can mix and match?
 
