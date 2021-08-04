@@ -54,18 +54,19 @@ submitted to the [Carpentries Incubator][7], where it benefits from
 input from the broader Carpentries audience.  Another important lesson
 in development is a [parallel python][4] lesson.
 
-Many community members have important operational experience with a
-variety of HPC tools in a pedagogical context, including the design,
+Many of our community members have important operational experience with
+a variety of HPC tools in a pedagogical context, including the design,
 procurement, deployment, and maintenance of on-premise hardware,
 container, and cloud systems.  This informs the lesson-development
 process at many levels.
 
 ### Goals for the BoF
 
-During this BoF, we will gather community feedback on our progress to date, to
-ensure that we are aligned with current HPC best practices, and to help the HPC
-Carpentries development team prioritize efforts for successor lessons in light
-of the changing landscape of current HPC practice.
+During this BoF, we will gather community feedback on our progress to
+date, to ensure that we are helping HPC operators bring users on board,
+and helping users make good use of the systems. This will help the HPC
+Carpentry development team prioritize efforts for successor lessons in
+light of the changing landscape of current HPC practice.
 
 We plan discuss the following strategic topics:
 
@@ -75,11 +76,11 @@ We plan discuss the following strategic topics:
     - Was the HPC Carpentry material used stand-alone, or in combination with other material?
     - What sequence was used? 
 
-2. Our existing lessons are not uniformly developed, and we have many good ideas for future lessons.
+2. Our existing lessons are not uniformly developed, and we have many good ideas for future lessons. Where should we focus future lesson efforts?
 
-    - Where should we focus efforts for future lessons?
-    - Languages? Julia? Chapel? Python?
-    - Frameworks? MPI? Dask? Containers?
+    - Existing lessons are fine, effort should go to improving them.
+    - HPC applications of new languages -- Julia, Chapel, Python.
+    - HPC frameworks -- Containers, Dask, MPI, MPI, parallel CUDA.
 
 3. Should the lessons be teachable as stand-alone sessions, with resultant overlap of material, or should the lessons form a "deck" that workshop coordinators can mix and match?
 
@@ -88,7 +89,7 @@ We plan discuss the following strategic topics:
     - How much templating is useful? At what point does it become burdensome?
     - Should the material be adapted to permanent on-premise resources, or transient cloud resources?
 
-5. What duration of workshop is practical for users of this material?
+5. What duration of workshop is practical for teaching this material?
 
     - Half-day?
     - Full day?
