@@ -84,12 +84,14 @@ We plan discuss the following strategic topics:
 
 3. Should the lessons be teachable as stand-alone sessions, with resultant overlap of material, or should the lessons form a "deck" that workshop coordinators can mix and match?
 
-4. The current HPC Intro lesson has templates for customization to local resources. There is obvious tension between having flexible templates versus ease of set-up.
+4. How should we use existing complementary material? There are resources available on some of our aspirational topics (containers, Julia), should we incorporate these into workshops, or build our own lessons from them?
+
+5. The current HPC Intro lesson has templates for customization to local resources. There is obvious tension between having flexible templates versus ease of set-up.
 
     - How much templating is useful? At what point does it become burdensome?
     - Should the material be adapted to permanent on-premise resources, or transient cloud resources?
 
-5. What duration of workshop is practical for teaching this material?
+6. What duration of workshop is practical for teaching this material?
 
     - Half-day?
     - Full day?
