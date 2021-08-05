@@ -3,7 +3,12 @@
 ## Session Leaders
 
 Andrew Reid
-: On GitHub [@reid-a][reid-a].
+: he/him. Computer operations administrator for the [CTCMS][ctcms]
+  clusters at [NIST][nist], managing a rotating cast of cluster 
+  users of varying levels of experience. Also materials scientist 
+  and co-developer of the [OOF][oof] finite-element tool, 
+  facilitating structure-property exploration for other materials 
+  scientists.  On GitHub [@reid-a][reid-a].
 
 Trevor Keller
 : they/them. Materials research engineer at [NIST][nist] and inchoate
@@ -164,6 +169,7 @@ fifteen participants got together at SC18.
 
 [nist]: https://www.nist.gov
 [ctcms]: https://www.ctcms.nist.gov
+[oof]: https://www.ctcms.nist.gov/oof/
 
 [annajiat]: https://github.com/annajiat
 [ocaisa]:   https://github.com/ocaisa
