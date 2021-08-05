@@ -2,12 +2,21 @@
 
 ## Session Leaders
 
- - Andrew Reid
- - Trevor Keller
- - Alan O'Cais
- - Annajiat Alim Rasel
+Andrew Reid
+: On GitHub [@reid-a][reid-a].
 
-It's possible to include a brief bio for these.
+Trevor Keller
+: they/them. Materials research engineer at [NIST][nist] and inchoate
+  systems administrator for the [CTCMS][ctcms] clusters, specializing in
+  solid-state transformations in additively manufactured metals and
+  filesystem frustrations in parallel. On GitHub [@tkphd][tkphd].
+
+Alan O'Cais
+: On GitHub [@ocaisa][ocaisa].
+
+Annajiat Alim Rasel
+: On GitHub [@anajiat][annajiat].
+
 
 ## Topic Area
 
@@ -133,7 +142,7 @@ participants got together at SC18.
 
 [HPC Carpentry][1].
 
-
+<!-- References follow on -->
 
 [1]: https://hpc-carpentry.org
 [2]: https://carpentries.org
@@ -142,3 +151,11 @@ participants got together at SC18.
 [5]: https://github.com/hpc-carpentry/hpc-chapel
 [6]: http://www.hpc-carpentry.org/contact/
 [7]: https://github.com/carpentries-incubator
+
+[nist]: https://www.nist.gov
+[ctcms]: https://www.ctcms.nist.gov
+
+[annajiat]: https://github.com/annajiat
+[ocaisa]:   https://github.com/ocaisa
+[reid-a]:   https://github.com/reid-a
+[tkphd]:    https://github.com/tkphd
