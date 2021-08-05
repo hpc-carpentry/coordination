@@ -37,15 +37,14 @@ number of introductory lessons for new users of HPC systems.
 
 ### What problem we solve
 
-It is a cliche at this point that greater and greater computational
-capabilities are becoming increasingly affordable. An under-appreciated
-consequence of this is that the range of backgrounds of new users of
-these resources is increasingly broad, and may not include knowledge of
-computer system configurations and file system layouts. This prevents
-users from making effective use of these new systems.  There is an evident
-on-going need to address the gap between the skills and expectations of
-users and the capabilities and opportunities presented by the available
-HPC resources.
+Greater computational capabilities are becoming increasingly
+affordable. An under-appreciated consequence of this is that the range
+of backgrounds of new users of these resources is increasingly broad,
+and may not include knowledge of computer system configurations and
+file system layouts. This prevents users from making effective use of
+these new systems.  There is an evident on-going need to address the
+gap between the skills and expectations of users and the capabilities
+and opportunities presented by the available HPC resources.
 
 The [HPC Carpentry][1] lessons address this gap, building on the
 pedagogically sound instructional methods of the larger [Carpentries][2]
@@ -76,7 +75,7 @@ We plan discuss the following strategic topics:
     - Was the HPC Carpentry material used stand-alone, or in combination with other material?
     - What sequence was used? 
 
-2. Our existing lessons are not uniformly developed, and we have many good ideas for future lessons. Where should we focus future lesson efforts?
+2. Our existing lessons are not uniformly developed, and we have many good ideas for future lessons. Which to prioritize?
 
     - Existing lessons are fine, effort should go to improving them.
     - HPC applications of new languages -- Julia, Chapel, Python.
@@ -88,7 +87,7 @@ We plan discuss the following strategic topics:
 
 5. The current HPC Intro lesson has templates for customization to local resources. There is obvious tension between having flexible templates versus ease of set-up.
 
-    - How much templating is useful? At what point does it become burdensome?
+    - How much templating is useful? How much is burdensome?
     - Should the material be adapted to permanent on-premise resources, or transient cloud resources?
 
 6. What duration of workshop is practical for teaching this material?
