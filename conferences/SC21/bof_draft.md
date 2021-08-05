@@ -20,7 +20,9 @@ Alan O'Cais
 : On GitHub [@ocaisa][ocaisa].
 
 Annajiat Alim Rasel
-: On GitHub [@anajiat][annajiat].
+: he/him. Learner of Parallel, Distributed, and High Performance 
+  Computing (HPC), and  Sr. Lecturer at the School of Data and Sciences
+  at Brac University. On GitHub [@anajiat][annajiat].
 
 
 ## Topic Area
