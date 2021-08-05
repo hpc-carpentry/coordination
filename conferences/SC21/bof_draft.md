@@ -2,12 +2,21 @@
 
 ## Session Leaders
 
- - Andrew Reid
- - Trevor Keller
- - Alan O'Cais
- - Annajiat Alim Rasel
+Andrew Reid
+: On GitHub [@reid-a][reid-a].
 
-It's possible to include a brief bio for these.
+Trevor Keller
+: they/them. Materials research engineer at [NIST][nist] and inchoate
+  systems administrator for the [CTCMS][ctcms] clusters, specializing in
+  solid-state transformations in additively manufactured metals and
+  filesystem frustrations in parallel. On GitHub [@tkphd][tkphd].
+
+Alan O'Cais
+: On GitHub [@ocaisa][ocaisa].
+
+Annajiat Alim Rasel
+: On GitHub [@anajiat][annajiat].
+
 
 ## Topic Area
 
@@ -32,8 +41,8 @@ where it benefits from the broader Carpentries community.
 ### Who we are
 
 The [HPC Carpentry][1] community, a volunteer group of high-performance
-computing practitioners led by a [steering committee][6], has developed a
-number of introductory lessons for new users of HPC systems.
+computing practitioners led by a [steering committee][6], has developed
+a number of introductory lessons for new users of HPC systems.
 
 ### What problem we solve
 
@@ -72,23 +81,33 @@ We plan discuss the following strategic topics:
 1. For people who have used the existing material, we are interested in 
    positive and negative aspects of the experience.
 
-    - Was the HPC Carpentry material used stand-alone, or in combination with other material?
+    - Was the HPC Carpentry material used stand-alone, or in combination
+      with other material?
     - What sequence was used? 
 
-2. Our existing lessons are not uniformly developed, and we have many good ideas for future lessons. Which to prioritize?
+2. Our existing lessons are not uniformly developed, and we have many
+   good ideas for future lessons. Which to prioritize?
 
     - Existing lessons are fine, effort should go to improving them.
     - HPC applications of new languages -- Julia, Chapel, Python.
     - HPC frameworks -- Containers, Dask, MPI, parallel CUDA.
 
-3. Should the lessons be teachable as stand-alone sessions, with resultant overlap of material, or should the lessons form a "deck" that workshop coordinators can mix and match?
+3. Should the lessons be teachable as stand-alone sessions, with
+   resultant overlap of material, or should the lessons form a "deck"
+   that workshop coordinators can mix and match?
 
-4. How should we use existing complementary material? There are resources available on some of our aspirational topics (containers, Julia), should we incorporate these into workshops, or build our own lessons from them?
+4. How should we use existing complementary material? There are
+   resources available on some of our aspirational topics (containers,
+   Julia), should we incorporate these into workshops, or build our own
+   lessons from them?
 
-5. The current HPC Intro lesson has templates for customization to local resources. There is obvious tension between having flexible templates versus ease of set-up.
+5. The current HPC Intro lesson has templates for customization to local
+   resources. There is obvious tension between having flexible templates
+   versus ease of set-up.
 
     - How much templating is useful? How much is burdensome?
-    - Should the material be adapted to permanent on-premise resources, or transient cloud resources?
+    - Should the material be adapted to permanent on-premise resources,
+      or transient cloud resources?
 
 6. What duration of workshop is practical for teaching this material?
 
@@ -99,13 +118,13 @@ We plan discuss the following strategic topics:
   
 ## Interactivity
 
-Approximately 3/4 of the session will be interactive, polling the audience 
-on the questions above.
+Approximately 3/4 of the session will be interactive, polling the
+audience on the questions above.
 
 ## Format of the non-audience-participation portion
 
-Presentations by the session leaders, either with slides or walking through a
-lesson.
+Presentations by the session leaders, either with slides or walking
+through a lesson.
 
 ## Commercial?
 
@@ -113,15 +132,15 @@ No.
 
 ## Format
 
-The BoF will open with a presentation of the current state of the lessons,
-including "pain points" identified by the development team, after which an open
-discussion will be held to solicit feedback on these points, and the questions
-above, from the attendees.
+The BoF will open with a presentation of the current state of the
+lessons, including "pain points" identified by the development team,
+after which an open discussion will be held to solicit feedback on these
+points, and the questions above, from the attendees.
 
 ## Prior BoFs?
 
-An HPC Carpentry BoF was held at SC17, and an informal group of about fifteen
-participants got together at SC18.
+An HPC Carpentry BoF was held at SC17, and an informal group of about
+fifteen participants got together at SC18.
 
 ## Time, expected attendance, keywords
 
@@ -133,7 +152,7 @@ participants got together at SC18.
 
 [HPC Carpentry][1].
 
-
+<!-- References follow on -->
 
 [1]: https://hpc-carpentry.org
 [2]: https://carpentries.org
@@ -142,3 +161,11 @@ participants got together at SC18.
 [5]: https://github.com/hpc-carpentry/hpc-chapel
 [6]: http://www.hpc-carpentry.org/contact/
 [7]: https://github.com/carpentries-incubator
+
+[nist]: https://www.nist.gov
+[ctcms]: https://www.ctcms.nist.gov
+
+[annajiat]: https://github.com/annajiat
+[ocaisa]:   https://github.com/ocaisa
+[reid-a]:   https://github.com/reid-a
+[tkphd]:    https://github.com/tkphd
