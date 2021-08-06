@@ -1,4 +1,4 @@
-## Title: HPC Carpentry: Introducing New Users to HPC
+# Title: HPC Carpentry: Introducing New Users to HPC
 
 ## Session Leaders
 
@@ -27,10 +27,9 @@ Annajiat Alim Rasel
   Computing (HPC), and  Sr. Lecturer at the School of Data and Sciences
   at Brac University. On GitHub [@anajiat][annajiat].
 
-
 ## Topic Area
 
- - Education
+- Education
 
 ## Abstract:
 
@@ -45,8 +44,7 @@ use of a queuing system and an introduction to [parallel programming
 in Python][4]. The introductory lesson is part of the [Incubator][7],
 where it benefits from the broader Carpentries community.
 
-
-##  Long description:
+## Long description:
 
 ### Who we are
 
@@ -125,7 +123,6 @@ We plan discuss the following strategic topics:
     - Full day?
     - Two days?
 
-
 ## Interactivity
 
 Approximately 3/4 of the session will be interactive, polling the
@@ -154,9 +151,9 @@ fifteen participants got together at SC18.
 
 ## Time, expected attendance, keywords
 
- - We expect the session will last 1.5 hours.
- - We expect around 50 participants.
- - Carpentries, carpentry, education, new users
+- We expect the session will last 1.5 hours.
+- We expect around 50 participants.
+- Carpentries, carpentry, education, new users
 
 ## Website link:
 
