@@ -17,7 +17,10 @@ Trevor Keller
   filesystem frustrations in parallel. On GitHub [@tkphd][tkphd].
 
 Alan O'Cais
-: On GitHub [@ocaisa][ocaisa].
+: he/him. Software Manager of E-CAM, an EU Centre of Excellence in
+  HPC computing applications. Previously managed the user software and
+  application environment on the multi-PFlop JURECA hybrid cluster
+  system. On GitHub [@ocaisa][ocaisa].
 
 Annajiat Alim Rasel
 : he/him. Learner of Parallel, Distributed, and High Performance 
