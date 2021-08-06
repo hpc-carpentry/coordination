@@ -4,11 +4,11 @@
 
 Andrew Reid
 : he/him. Computer operations administrator for the [CTCMS][ctcms]
-  clusters at [NIST][nist], managing a rotating cast of cluster 
-  users of varying levels of experience. Also materials scientist 
-  and co-developer of the [OOF][oof] finite-element tool, 
-  facilitating structure-property exploration for other materials 
-  scientists.  On GitHub [@reid-a][reid-a].
+  clusters at [NIST][nist], managing a rotating cast of cluster
+  users of varying levels of experience. Also materials scientist
+  and co-developer of the [OOF][oof] finite-element tool,
+  facilitating structure-property exploration for other materials
+  scientists. On GitHub [@reid-a][reid-a].
 
 Trevor Keller
 : they/them. Materials research engineer at [NIST][nist] and inchoate
@@ -23,7 +23,7 @@ Alan O'Cais
   system. On GitHub [@ocaisa][ocaisa].
 
 Annajiat Alim Rasel
-: he/him. Learner of Parallel, Distributed, and High Performance 
+: he/him. Learner of Parallel, Distributed, and High Performance
   Computing (HPC), and  Sr. Lecturer at the School of Data and Sciences
   at Brac University. On GitHub [@anajiat][annajiat].
 
@@ -35,17 +35,17 @@ Annajiat Alim Rasel
 ## Abstract:
 
 [HPC Carpentry][1] introduces new users to high-performance computing
-through a set of community-contributed lessons.  As diverse and powerful
+through a set of community-contributed lessons. As diverse and powerful
 hardware becomes more widely deployed, users from a variety of technical
 backgrounds are faced with the challenge of adapting their problems
 to new environments; educational resources to bring users up to speed
-become more significant.  Based on the approach of [The Carpentries][2],
+become more significant. Based on the approach of [The Carpentries][2],
 HPC Carpentry lessons in development include an [introduction][3] to the
 use of a queuing system and an introduction to [parallel programming
-in Python][4].  The introductory lesson is part of the [Incubator][7], 
+in Python][4]. The introductory lesson is part of the [Incubator][7],
 where it benefits from the broader Carpentries community.
 
-  
+
 ##  Long description:
 
 ### Who we are
@@ -61,21 +61,21 @@ affordable. An under-appreciated consequence of this is that the range
 of backgrounds of new users of these resources is increasingly broad,
 and may not include knowledge of computer system configurations and
 file system layouts. This prevents users from making effective use of
-these new systems.  There is an evident on-going need to address the
+these new systems. There is an evident on-going need to address the
 gap between the skills and expectations of users and the capabilities
 and opportunities presented by the available HPC resources.
 
 The [HPC Carpentry][1] lessons address this gap, building on the
 pedagogically sound instructional methods of the larger [Carpentries][2]
-community.  The best-developed lesson, [HPC Intro][3], was recently
+community. The best-developed lesson, [HPC Intro][3], was recently
 submitted to the [Carpentries Incubator][7], where it benefits from
-input from the broader Carpentries audience.  Another important lesson
+input from the broader Carpentries audience. Another important lesson
 in development is a [parallel python][4] lesson.
 
 Many of our community members have important operational experience with
 a variety of HPC tools in a pedagogical context, including the design,
 procurement, deployment, and maintenance of on-premise hardware,
-container, and cloud systems.  This informs the lesson-development
+container, and cloud systems. This informs the lesson-development
 process at many levels.
 
 ### Goals for the BoF
@@ -88,12 +88,12 @@ light of the changing landscape of current HPC practice.
 
 We plan discuss the following strategic topics:
 
-1. For people who have used the existing material, we are interested in 
+1. For people who have used the existing material, we are interested in
    positive and negative aspects of the experience.
 
     - Was the HPC Carpentry material used stand-alone, or in combination
       with other material?
-    - What sequence was used? 
+    - What sequence was used?
 
 2. Our existing lessons are not uniformly developed, and we have many
    good ideas for future lessons. Which to prioritize?
@@ -125,7 +125,7 @@ We plan discuss the following strategic topics:
     - Full day?
     - Two days?
 
-  
+
 ## Interactivity
 
 Approximately 3/4 of the session will be interactive, polling the
