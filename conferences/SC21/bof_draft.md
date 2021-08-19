@@ -41,7 +41,7 @@ to new environments; educational resources to bring users up to speed
 become more significant. Based on the approach of [The Carpentries][2],
 HPC Carpentry lessons in development include an [introduction][3] to the
 use of a queuing system and an introduction to [parallel programming
-in Python][4]. The introductory lesson is part of the [Incubator][7],
+in Python][4]. The queuing lesson is part of the [Incubator][7],
 where it benefits from the broader Carpentries community.
 
 ## Long description:
@@ -54,8 +54,7 @@ a number of introductory lessons for new users of HPC systems.
 
 ### What problem we solve
 
-Greater computational capabilities are becoming increasingly
-affordable. An under-appreciated consequence of this is that the range
+An under-appreciated consequence of the growth of HPC is that the range
 of backgrounds of new users of these resources is increasingly broad,
 and may not include knowledge of computer system configurations and
 file system layouts. This prevents users from making effective use of
@@ -72,17 +71,17 @@ in development uses Python and MPI to introduce the basics of
 [parallel programming][4].
 
 Many of our community members have important operational experience with
-a variety of HPC tools in a pedagogical context, including the design,
-procurement, deployment, and maintenance of on-premise hardware,
+a variety of HPC tools in a pedagogical context, including the
+operation of on-premise hardware,
 container, and cloud systems. This informs the lesson-development
 process at many levels.
 
 ### Goals for the BoF
 
-During this BoF, we will gather community feedback on our progress to
-date, to ensure that we are helping HPC operators bring users on board,
-and helping users make good use of the systems. This will help the HPC
-Carpentry development team prioritize efforts for successor lessons in
+During this BoF, we will gather community feedback 
+to ensure that we are helping HPC operators bring users on board,
+and helping users make good use of the systems. This will help 
+prioritize efforts for successor lessons in
 light of the changing landscape of current HPC practice.
 
 We plan discuss the following strategic topics:
@@ -94,8 +93,8 @@ We plan discuss the following strategic topics:
       with material from The Carpentries or elsewhere?
     - What sequence of lessons was used to build the workshop?
 
-2. Our existing lessons are not uniformly developed, and we have many
-   good ideas for future lessons. Which to prioritize?
+2. Our existing lessons are not uniformly developed. How should we
+   prioritize future development?
 
     - Existing lessons cover the important topics. Effort should go to
       improving them.
