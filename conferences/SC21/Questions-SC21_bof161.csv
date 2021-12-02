@@ -1,0 +1,49 @@
+Question text,Score,Upvotes,Highlighted,Status,User ID,User Name,User company,Sentiment,Submission Date,Submission Time
+"I'm stuck waiting for the host to start the zoom meeting, is this only a problem I'm having?",8,8,1,Live,19379fb6af5ccaf8647e2046708dc2dcd90685a6,Anonymous,Anonymous,negative,11/17/2021,15:20:52
+same here,0,0,0,Live,a694654067a9d73f548846fa08231ae706e147c5,Anonymous,Anonymous,neutral,11/17/2021,15:21:30
+"No, I am having that same problem too, I've closed the zoom window but I keep getting that message too. ",1,1,0,Live,e3780dfe4ea4d1bca947403ef2a6ea9b8c5ee54c,Anonymous,Anonymous,negative,11/17/2021,15:21:49
+It is a system wide issue. Other colleagues are stuck in waiting room for their BOF Zoom too.,1,1,0,Live,218426328,Wirawan,,negative,11/17/2021,15:23:12
+"Same here, remote Zoom is not working",0,0,0,Live,ed0ac118a8c20285719f2fff63c98362981d5891,Anonymous,Anonymous,negative,11/17/2021,15:23:15
+other groups sent different link to zoom. please share with us new link,1,1,0,Live,f1505eac5cbcfab3b040c3a8c6a7b7d3fc1361f8,Anonymous,Anonymous,neutral,11/17/2021,15:26:04
+"please use zoom Session ID is 96191811326, passcode is 001628.",5,5,1,Live,218426328,Wirawan,,neutral,11/17/2021,15:26:31
+Here's the zoom link: https://hubb-me.zoom.us/j/96191811326?pwd=dS9IUldxNkxKaHJ3MjZCS0NSZGdYdz09,1,1,0,Live,8084cd4f92313e23458fd631b1698d6189bd72b0,Anonymous,Anonymous,neutral,11/17/2021,15:29:08
+https://hubb-me.zoom.us/j/96191811326?pwd=dS9IUldxNkxKaHJ3MjZCS0NSZGdYdz09,1,1,0,Live,f1505eac5cbcfab3b040c3a8c6a7b7d3fc1361f8,Anonymous,Anonymous,neutral,11/17/2021,15:29:36
+"Here are some of the shared links:
+https://github.com/hpc-carpentry
+https://carpentries.topicbox.com/groups/discuss-hpc
+http://www.hpc-carpentry.org/
+",1,1,0,Live,218415588,Annajiat Alim Rasel,,neutral,11/17/2021,15:32:33
+"That worked, but the ""Join Online"" should be fixed.",1,1,0,Live,218435253,David Martin,,negative,11/17/2021,15:32:36
+basic MPI in C is vaulable,2,2,0,Live,16304debd96e51717114c692b6183355daaff534,Anonymous,Anonymous,neutral,11/17/2021,15:41:54
+I would stick with mpi4py,5,5,0,Live,ad82116d3787c96d75dac0f7ea973640f825c5c4,Anonymous,Anonymous,neutral,11/17/2021,15:42:00
+"I would say, mpi4py to begin with.",2,2,0,Live,218426328,Wirawan,,neutral,11/17/2021,15:42:30
+"MPI with C, C++, and Fortran is still the most commonly used framework for HPC.  So we should teach that along with other things.",2,2,0,Live,c099111da3372b34fc9be32a72e28790692553d3,Anonymous,Anonymous,neutral,11/17/2021,15:43:00
+"With a mix and match framework we could have c, Fortran, and Python MPI modules ",1,1,0,Live,218439457,Greg,,neutral,11/17/2021,15:45:33
+"DeapSECURE"": https://deapsecure.gitlab.io/
+
+",1,1,0,Live,218415588,Annajiat Alim Rasel,,neutral,11/17/2021,15:47:11
+"I would say value flexibility with a few good basic and usable examples (slurm with generic prompts ($), etc.) ",1,1,0,Live,217804640,Tim M,Internet2,positive,11/17/2021,15:47:12
+"
+Shared notepad for this BoF:
+https://codimd.carpentries.org/9-Y8OaVIT2qpb_P47TR7Lw?both
+Please leave your name if you type into it. Thanks!
+
+",2,2,0,Live,218415588,Annajiat Alim Rasel,,neutral,11/17/2021,15:47:15
+Microsoft has Infinband cards and others have RDMA cards.,1,1,0,Live,217804640,Tim M,Internet2,neutral,11/17/2021,15:49:14
+this link is not working https://codimd.carpentries.org/9-Y8OaVIT2qpb_P47TR7Lw?,1,1,0,Live,70364363e7a1eac9a3cd16e0337fcdba9b7a9912,Anonymous,Anonymous,negative,11/17/2021,15:49:43
+We spread out workshops over the period of several weeks (1 topic per week). Very hard to expect students to dedicate 1 or 2 whole days.,1,1,0,Live,218426328,Wirawan,,negative,11/17/2021,15:52:58
+"If I was to use this material, what type of feedback would you be interested in collecting ",2,2,0,Live,70364363e7a1eac9a3cd16e0337fcdba9b7a9912,Anonymous,Anonymous,negative,11/17/2021,15:56:16
+"There's a shared notepad here:
+https://codimd.carpentries.org/9-Y8OaVIT2qpb_P47TR7Lw?both
+Please leave your name if you type into it. Thanks!
+",1,1,0,Live,218415588,Annajiat Alim Rasel,,neutral,11/17/2021,15:56:47
+"My understanding is that HPC Shell was just dropped.  Could you expand more on that, like what HPC Shell had that Carpentry Shell does not?",1,1,0,Live,ed0ac118a8c20285719f2fff63c98362981d5891,Anonymous,Anonymous,neutral,11/17/2021,15:57:08
+http://www.fredhutch.io/resources/,1,1,0,Live,7cb538b8a7cdf02a1d9e00d3b85603f93d63f128,Anonymous,Anonymous,neutral,11/17/2021,15:58:28
+Any plans for HPC CUI/secure data content?,2,2,0,Live,9c457b6ca7f374db965b31ba95945bfd39bbfaac,Anonymous,Anonymous,neutral,11/17/2021,15:59:37
+Q: Are the HPC Carpentries lessons intended to be done in a classroom with a human instructor or can they be used by an individual by themself?,1,1,0,Live,230b0ae7a0a11d99e7dc9da55c7f1895d3a79433,Anonymous,Anonymous,neutral,11/17/2021,16:05:30
+What's the typical ratio of instructor prep time (becoming familiar enough with the content to teach it) vs the tutorial duration?,2,2,0,Live,55c7193a958dbfa6e8a247dfa6eb4c5a74b1607c,Anonymous,Anonymous,neutral,11/17/2021,16:06:38
+Perhaps this is a question for all audience: What are the challenges of onboarding new people to HPC these days?,2,2,0,Live,218426328,Wirawan,,neutral,11/17/2021,16:10:47
+"If codimd notes page link is not working for somebody, please try the view mode, https://codimd.carpentries.org/9-Y8OaVIT2qpb_P47TR7Lw?view",1,1,0,Live,218415588,Annajiat Alim Rasel,,negative,11/17/2021,16:17:38
+I am new to much of HPC myself and it is challenging to choose what to learn. e.g. Is it better to invest in chapel or MPI?,3,3,0,Live,a02a6341a61202de7992d32bf5ee8338093baa4a,Anonymous,Anonymous,neutral,11/17/2021,16:26:34
+The topics HPC Carpentry chooses to support is an important signal about what you think the future of the field will look like. ,1,1,0,Live,a02a6341a61202de7992d32bf5ee8338093baa4a,Anonymous,Anonymous,neutral,11/17/2021,16:27:43
+Note on the CUI training - CITI training already does CUI training and folks are using their course - https://www.k-state.edu/comply/cui/cui_training.html,0,0,0,Live,7cb538b8a7cdf02a1d9e00d3b85603f93d63f128,Anonymous,Anonymous,neutral,11/17/2021,16:38:50

@@ -1,0 +1,26 @@
+Poll ID,Poll Type,Poll Question,Poll Option,Count,Total Votes,Results
+17720602,Open Text,"For people who used existing HPC Carpentry material, was it used stand-alone or in combination with other sources? What other sources?",Hosted a HPC carpentry session in ~2018/2019,1,5,
+17720602,Open Text,"For people who used existing HPC Carpentry material, was it used stand-alone or in combination with other sources? What other sources?",Stand alone,1,5,
+17720602,Open Text,"For people who used existing HPC Carpentry material, was it used stand-alone or in combination with other sources? What other sources?",Internal content and XSEDE,1,5,
+17720602,Open Text,"For people who used existing HPC Carpentry material, was it used stand-alone or in combination with other sources? What other sources?",We have not yet used those materials,1,5,
+17720602,Open Text,"For people who used existing HPC Carpentry material, was it used stand-alone or in combination with other sources? What other sources?","not using
+",1,5,
+17720621,Open Text,"For people who used existing HPC Carpentry material, in what sequence did you teach it?",na,1,4,
+17720621,Open Text,"For people who used existing HPC Carpentry material, in what sequence did you teach it?","Only HPC intro, Carpentries Shell as prereq",1,4,
+17720621,Open Text,"For people who used existing HPC Carpentry material, in what sequence did you teach it?",Bash first.,1,4,
+17720621,Open Text,"For people who used existing HPC Carpentry material, in what sequence did you teach it?","currently only ""Intro to HPC"" as the lesson from HPC Carpentry. We supplement this year's workshop with UNIX shell from Software Carpentry and a custom Globus webinar. Order: HPC-intro, shell-novice, globus.",1,4,
+17720733,Multiple choice (Multiple answer),Where should we focus efforts on future lessons?,Python language,16,27,59%
+17720733,Multiple choice (Multiple answer),Where should we focus efforts on future lessons?,Julia language,4,27,15%
+17720733,Multiple choice (Multiple answer),Where should we focus efforts on future lessons?,Chapel language,0,27,0%
+17720733,Multiple choice (Multiple answer),Where should we focus efforts on future lessons?,MPI framework,16,27,59%
+17720733,Multiple choice (Multiple answer),Where should we focus efforts on future lessons?,Dask framework,5,27,19%
+17720733,Multiple choice (Multiple answer),Where should we focus efforts on future lessons?,Containers,20,27,74%
+17720782,Multiple choice (Single answer),"Should lessons be stand-alone, with possible redundant material between lessons, or form a deck of mix/match content form which organizers can draw to make a workshop?",Stand-alone,9,30,30%
+17720782,Multiple choice (Single answer),"Should lessons be stand-alone, with possible redundant material between lessons, or form a deck of mix/match content form which organizers can draw to make a workshop?",Mix/match,21,30,70%
+17720828,Multiple choice (Single answer),"Is templating for adapting lessons to local resources a valuable source of flexibility, or an annoying extra configuration step?",Valuable flexibility,23,23,100%
+17720828,Multiple choice (Single answer),"Is templating for adapting lessons to local resources a valuable source of flexibility, or an annoying extra configuration step?",Annoying extra work,0,23,0%
+17721092,Multiple choice (Single answer),"Do workshop organizers expect to target permanent on-premise facilities, or transient (possibly cloud-based) resources?",Permanent on-premise,17,24,71%
+17721092,Multiple choice (Single answer),"Do workshop organizers expect to target permanent on-premise facilities, or transient (possibly cloud-based) resources?",Transient/cloud,7,24,29%
+17720836,Multiple choice (Single answer),What duration of a workshop should we target?,Half-day,14,32,44%
+17720836,Multiple choice (Single answer),What duration of a workshop should we target?,Full day,8,32,25%
+17720836,Multiple choice (Single answer),What duration of a workshop should we target?,Two days,10,32,31%
