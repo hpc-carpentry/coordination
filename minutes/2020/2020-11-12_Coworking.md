@@ -1,3 +1,8 @@
+---
+layout: page
+url: https://codimd.carpentries.org/o55YAOKLQ92gwN0bew2qOQ
+---
+
 # HPC Carpentries Coworking Hours: 12 November
 
 The HPC Carpentries Task Force holds coworking hours every other Thursday, with

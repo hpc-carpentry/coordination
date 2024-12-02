@@ -1,4 +1,9 @@
-# Task Force Meeting: September 2020
+---
+layout: page
+url: https://codimd.carpentries.org/ct7yfc_LSseoC8mEmbVEiQ
+---
+
+# Task Force Meeting: September 16, 2020
 
 We plan to meet on September 16, 2020 at 9:00 PM UTC (11:00 PM Central Europe /
 5:00 PM Eastern US / 2:00 PM Pacific US)

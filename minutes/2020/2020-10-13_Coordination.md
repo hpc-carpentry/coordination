@@ -1,3 +1,8 @@
+---
+layout: page
+url: https://codimd.carpentries.org/tsMOzEaMQYmeesMGpalVRw
+---
+
 # Second HPC Carpentries Task Force Meeting, October 13, 2020
 
 ## Logistics
