@@ -5,6 +5,13 @@
 ### Unix Shell
 
 1. Excellent instructor. Excellent in-person classroom setup.
+2. good overview of bash shel, comments regarding coding based on experience
+3. Good amount of examles, has a nice build and gives great alternative commands
+4. Became aware of how bash tools could really help my data processing
+5. The session expanded my awareness of what bash commands can do
+6. Expert knowledge was great
+7. Great examples
+8. Very clear presentation, learned some useful tips despite using bash every day
 
 ### HPC Intro
 
@@ -28,6 +35,17 @@
    HPC. I'd leave full Shell for an SWC workshop.
 3. Having a simple "if you already know how to do XYZ, you can skip this bit"
    might be nice, especially to know if we could have skipped the first day.
+4. Print out or list of commands for participants
+5. `tree -L 1` might be a godo visual intro to the filesystem
+6. Split screen -- can see outcome and script at the same time
+7. An entire session on regex would apply to a lot of situations
+8. Walk through a realistic process for data management prior to using graphing software
+9. Have hourly topic sessions so people can pick and choose
+10. Better/tighter integration w/online notes, course materials, etc would be good.
+11. I think ending on how to make a bash script executable w/ bash aliases would be better
+12. Less files to switch between lik I think most examples could work with alkanes and animals files
+13. Give people the option to skip the 1st portion of the day if comfortable w/bash, but I would not cut out because some might not be familiar w/bash
+14. More hands-on practice, could be faster in the first period
 
 ### HPC Intro
 
